@@ -1,3 +1,6 @@
+import cy from 'cypress';
+import context from 'cypress';
+
 /// <reference types="cypress" />
 
 context('Network Requests', () => {

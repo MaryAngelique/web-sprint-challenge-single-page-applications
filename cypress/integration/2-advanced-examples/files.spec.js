@@ -1,3 +1,7 @@
+import cy from 'cypress';
+import context from 'cypress';
+import Cypress from 'cypress';
+
 /// <reference types="cypress" />
 
 /// JSON fixture file can be loaded directly using

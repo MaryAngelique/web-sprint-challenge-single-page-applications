@@ -1,3 +1,7 @@
+import cy from 'cypress';
+import context from 'cypress';
+import Cypress from 'cypress';
+
 /// <reference types="cypress" />
 // remove no check once Cypress.sinon is typed
 // https://github.com/cypress-io/cypress/issues/6720
